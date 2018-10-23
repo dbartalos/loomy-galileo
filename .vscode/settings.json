@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe",
+    "python.venvPath": "${workspaceFolder}\\env",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.linting.pylintEnabled": false
+}
