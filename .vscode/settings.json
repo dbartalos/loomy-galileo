@@ -3,5 +3,6 @@
     "python.venvPath": "${workspaceFolder}\\env",
     "python.linting.pep8Enabled": true,
     "python.linting.pylintUseMinimalCheckers": false,
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "files.autoGuessEncoding": true
 }
